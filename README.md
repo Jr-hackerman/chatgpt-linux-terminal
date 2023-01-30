@@ -25,3 +25,7 @@ This code is a basic example and has been provided as a starting point for integ
 
 ## Note
 This code is provided as-is, with no warranties or guarantees of any kind. OpenAI makes no representations or warranties with respect to the contents hereof and specifically disclaims any implied warranties of merchantability or fitness for a particular purpose.
+
+=========================================================
+####  Fuel your enegry with a hot cup of coffee, buy me one!
+<a href="https://www.buymeacoffee.com/PsyberBook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
