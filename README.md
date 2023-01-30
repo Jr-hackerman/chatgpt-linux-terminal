@@ -11,12 +11,12 @@ A repository for integrating OpenAI's ChatGPT language model in a Linux terminal
 1. Clone or download the repository.
 2. Install the required libraries by running the following command in your terminal:
 
-pip install requests
+    pip install requests
 
 3. Replace the placeholder text `<YOUR_API_KEY>` in the code with your actual OpenAI API key.
 4. Run the code in your terminal:
 
-python Chatgpt.py
+    python Chatgpt.py
 
 5. You should now be able to have a conversation with ChatGPT in the terminal.
 
